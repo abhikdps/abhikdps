@@ -19,8 +19,7 @@ I’m always looking to expand my knowledge and help others grow. Here’s how I
 - Helping the community with Python, Ansible, and DevOps advice.  
 
 ## 🏆 GitHub Stats  
-![abhikdps GitHub stats](https://github-readme-stats.vercel.app/api?username=abhikdps&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhikdps&layout=compact&theme=radical)
+![abhikdps GitHub stats](https://github-readme-stats.vercel.app/api?username=abhikdps&show_icons=true&theme=radical)
 
 ## 📫 Let’s Connect!  
 - **LinkedIn:** [abhinav-anand-2709](https://www.linkedin.com/in/abhinav-anand-2709/)  
